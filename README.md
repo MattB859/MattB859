@@ -2,7 +2,7 @@
  
 ### Hi there, I'm Matthew 👋 
 
-I have a passion for technology and building cool things on the web. I have acquired skills in HTML, CSS, JavaScript, Python, I am familiar with both relational and non-relational databases. 
+I am recent software developer graduate looking for opportunities and collabaration in projects related to full-stack development and machine learning. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML, CSS, JavaScript, and Python. I am familiar with both relational and non-relational databases. 
 
 
 # Technologies
@@ -11,7 +11,7 @@ I have a passion for technology and building cool things on the web. I have acqu
 
 <p float="left">
     <img src="images/html-5.png" width="5%"/>
-    <img src="images/css-03.png" width="5.5%"/> 
+    <img src="images/css-03.png" width="5.7%"/> 
     <img src="images/js.png" width="5%"/>
     <img src="images/python-3.png" width="6%"/>
 </p>

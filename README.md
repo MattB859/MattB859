@@ -1,5 +1,7 @@
 <img src="images/profile-3.png" width="100%"/>
- 
+
+# About me
+
 ### Hi there, I'm Matthew 👋 
 
 I am recent software developer graduate looking for opportunities and collabaration in projects related to full-stack development and machine learning. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML, CSS, JavaScript, and Python. I am familiar with both relational and non-relational databases. 

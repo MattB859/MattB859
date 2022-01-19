@@ -32,7 +32,7 @@ I am recent software developer graduate looking for opportunities and collabarat
     <img src="images/balsamiq.png" width= "7%"/>
 </P>
 
-
+## GitHub Stats, Languages Used
 <a href="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical" />
 </a>

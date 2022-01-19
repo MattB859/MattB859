@@ -10,37 +10,28 @@ I have a passion for technology and building cool things on the web. I have acqu
 ## Languages
 
 <p float="left">
-    <img src="images/html-5.png" width="10%" />
-    <img src="images/css-03.png" width="11%" /> 
-    <img src="images/js.png" width="10%" />
-    <img src="images/python-3.png" width="12%" />
+    <img src="images/html-5.png" width="5%"/>
+    <img src="images/css-03.png" width="5.5%"/> 
+    <img src="images/js.png" width="5%"/>
+    <img src="images/python-3.png" width="6%"/>
 </p>
 
-## Frameworks
+## Frameworks, Databases, and Tools
 <p float="left">
-    <img src="images/jquery.png" width="11%" />
-    <img src="images/bootstrap.png" width="11%" />
-    <img src="images/dj.png" width="12%" /> 
-    <img src="images/flask.png" width="12%" />
-    <img src="images/react-1.png" width="12%" />
+    <img src="images/jquery.png" width="6%"/>
+    <img src="images/bootstrap.png" width="6%"/>
+    <img src="images/dj.png" width="7%"/> 
+    <img src="images/flask.png" width="7%"/>
+    <img src="images/react-1.png" width="7%"/>
+    <img src="images/mongodb.png" width="7%"/>
+    <img src="images/sql.png" width= "12%"/>
+    <img src="images/vscode.png" width="7%"/>
+    <img src="images/git.png" width= "7%"/>
+    <img src="images/github.png" width= "7%"/>
+    <img src="images/illustrator.png" width= "6%"/>
+    <img src="images/balsamiq.png" width= "7%"/>
 </P>
 
-## Database
-<p float="left"> 
-    <img src="images/mongodb.png" width="12%" />
-    <img src="images/sql.png" width= "25%" />
-</P>
-
-[jquery](dddddds)
-
-## Tools
-<p float="left"> 
-    <img src="images/vscode.png" width="12%"/>
-    <img src="images/git.png" width= "12%"/>
-    <img src="images/github.png" width= "12%"/>
-    <img src="images/illustrator.png" width= "11%"/>
-    <img src="images/balsamiq.png" width= "12%"/>
-</P>
 
 <a href="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical" />

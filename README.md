@@ -1,4 +1,4 @@
-<img src="images/profile-2.png" width="100%"/>
+<img src="images/profile-3.png" width="100%"/>
  
 ### Hi there, I'm Matthew 👋 
 
@@ -16,10 +16,11 @@ I am recent software developer graduate looking for opportunities and collabarat
     <img src="images/python-3.png" width="6%"/>
 </p>
 
+
 ## Frameworks, Databases, and Tools
 <p float="left">
     <img src="images/jquery.png" width="6%"/>
-    <img src="images/bootstrap.png" width="6%"/>
+    <img src="images/bootstrap.png" width="7%"/>
     <img src="images/dj.png" width="7%"/> 
     <img src="images/flask.png" width="7%"/>
     <img src="images/react-1.png" width="7%"/>

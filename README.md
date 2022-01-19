@@ -10,7 +10,7 @@ Hi, I'm Matthew. I have a passion for technology and building cool things on the
     <img src="images/html-5.png" width="10%" />
     <img src="images/css-03.png" width="11%" /> 
     <img src="images/js.png" width="10%" />
-    <img src="images/python-3.png" width="11%" />
+    <img src="images/python-3.png" width="12%" />
 </p>
 
 ## Frameworks
@@ -30,12 +30,11 @@ Hi, I'm Matthew. I have a passion for technology and building cool things on the
 
 ## Tools
 <p float="left"> 
-    <img src="images/vscode.png" width="12%" />
-    <img src="images/git.png" width= "12%" />
-    <img src="images/github.png" width= "12%" />
-    <img src="images/Illustrator
-.png" width= "11%" />
-    <img src="images/balsamiq.png" width= "12%" />
+    <img src="images/vscode.png" width="12%"/>
+    <img src="images/git.png" width= "12%"/>
+    <img src="images/github.png" width= "12%"/>
+    <img src="images/illustrator.png" width= "11%"/>
+    <img src="images/balsamiq.png" width= "12%"/>
 </P>
 
 <!--

@@ -4,10 +4,10 @@
 
 ### Hi there, I'm Matthew 👋 
 
-I am a recent software developer graduate looking for opportunities and collaboration in projects related to full-stack development and machine learning. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML, CSS, JavaScript, and Python. I am familiar with both relational and non-relational databases. 
+### I am a recent software developer graduate looking for opportunities and collaboration in projects related to full-stack development and machine learning. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML, CSS, JavaScript, and Python. I am familiar with both relational and non-relational databases. 
 
 
-# Technologies i know
+# Technologies
 
 ## Languages
 

@@ -1,4 +1,4 @@
-<img src="images/profile-3.png" width="100%"/>
+<img src="images/readme-profile.png" width="100%"/>
 
 # About me
 

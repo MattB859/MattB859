@@ -1,4 +1,4 @@
-<img src="images/New.png" width="100%"/>
+<img src="images/RDME-Hero.png" width="100%"/>
 
 # About me
 

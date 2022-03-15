@@ -1,4 +1,4 @@
-<img src="images/Untitled.png" width="100%"/>
+<img src="images/rdme-1.png" width="100%"/>
 
 # About me
 

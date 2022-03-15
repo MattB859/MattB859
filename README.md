@@ -1,10 +1,10 @@
-<img src="images/header-2.png" width="100%"/>
+<img src="images/New.png" width="100%"/>
 
 # About me
 
 ### Hi there, I'm Matthew 👋 
 
-I am a recent software developer graduate looking for opportunities and collaboration in projects related to full-stack development and machine learning. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML, CSS, JavaScript, and Python. I am familiar with both relational and non-relational databases. 
+I am a junior software developer with 1+ years of commercial experience in designing and developing interactive user-friendly responsive websites. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Flask, Django, and Python. I am familiar with both relational and non-relational databases. 
 
 
 # Technologies
@@ -24,15 +24,9 @@ I am a recent software developer graduate looking for opportunities and collabor
     <img src="images/jquery.png" width="6%"/>
     <img src="images/bootstrap.png" width="7%"/>
     <img src="images/dj.png" width="7%"/> 
-    <img src="images/flask.png" width="7%"/>
     <img src="images/react-1.png" width="7%"/>
     <img src="images/mongodb.png" width="7%"/>
     <img src="images/sql.png" width= "12%"/>
-    <img src="images/vscode.png" width="7%"/>
-    <img src="images/git.png" width= "7%"/>
-    <img src="images/github.png" width= "7%"/>
-    <img src="images/illustrator.png" width= "6%"/>
-    <img src="images/balsamiq.png" width= "7%"/>
 </P>
 
 ## GitHub Stats, Languages Used

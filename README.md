@@ -1,8 +1,8 @@
-<img src="images/Hero.png" width="100%"/>
+<img src="images/README.png" width="100%"/>
 
-# About me
+# About me 
 
-A full-stack developer with 1+ years of commercial experience in designing and developing interactive user-friendly responsive websites. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Flask, Django, and Python. I am familiar with both relational and non-relational databases. 
+I am a software engineer with 1+ years of commercial experience in designing and developing interactive user-friendly responsive websites. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Flask, Django, and Python. I am familiar with both relational and non-relational databases. 
 
 
 # Technologies

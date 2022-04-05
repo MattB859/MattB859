@@ -2,7 +2,7 @@
 
 # About me 
 
-I am a software engineer with 1+ years of commercial experience in designing and developing interactive user-friendly responsive websites. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Flask, Django, and Python. I am familiar with both relational and non-relational databases. 
+I am a software engineer with 1+ years of commercial experience in designing and developing interactive user-friendly responsive websites. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML5, CSS3, SCSS, JavaScript (ES6,7,8), TypeScript, React.js, Flask, Django, and Python. I am familiar with both relational and non-relational databases. 
 
 
 # Technologies
@@ -23,16 +23,14 @@ I am a software engineer with 1+ years of commercial experience in designing and
     <img src="images/bootstrap.png" width="7%"/>
     <img src="images/dj.png" width="7%"/> 
     <img src="images/react-1.png" width="7%"/>
+    <img src="images/node.js.png" width= "7%"/>
     <img src="images/mongodb.png" width="7%"/>
     <img src="images/sql.png" width= "12%"/>
 </P>
 
-## GitHub Stats, Languages Used
+## GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mattb859&layout=compact=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattb859&layout=compact=true&theme=radical" />
 </a>
 
 

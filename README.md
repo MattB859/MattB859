@@ -1,11 +1,6 @@
-<img src="images/img-10.png" width="100%"/>
 
-# About me 
+https://user-images.githubusercontent.com/84400670/169313392-84bc64f0-c72b-41a3-9958-b64d11428c86.mp4
 
-Hi there my name is Matthew and I am a software developer 
-with 2+ years of experience in designing & developing client/server side 
-web applications. I have always had a keen interest in technology 
-and how the world of technology works.
  
 # Technologies
 

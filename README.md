@@ -3,7 +3,9 @@
 # About me 
 
 Hi there my name is Matthew and I am a software developer with 2+ years of experience in designing & developing client/server side web applications. I have always had a keen interest in technology and how the world of technology works.
+ 
 
+git
 # Technologies
 
 ## Languages
@@ -26,6 +28,11 @@ Hi there my name is Matthew and I am a software developer with 2+ years of exper
     <img src="images/mongodb.png" width="7%"/>
     <img src="images/sql.png" width= "12%"/>
 </P>
+
+## GitHub Stats
+<a href="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical" />
+</a>
 
 
 <!--

@@ -1,6 +1,5 @@
+![GbpT](https://user-images.githubusercontent.com/84400670/169335043-cf56f75e-ffac-42cc-b418-d77e1581c4c5.gif)
 
-
-![3hMe](https://user-images.githubusercontent.com/84400670/169330153-dcf3e5a1-99bd-42c3-8199-53f4b73703e2.gif)
 
 # Technologies
 

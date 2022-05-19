@@ -18,8 +18,7 @@
 <p float="left">
     <img src="images/bootstrap.png" width="7%"/>
     <img src="images/dj.png" width="7%"/> 
-    <img src="images/react-1.png" width="7%"/>![3Al6](https://user-images.githubusercontent.com/84400670/169328444-6a60dc92-a756-4db0-8619-88896a30fb35.gif)
-
+    <img src="images/react-1.png" width="7%"/>
     <img src="images/node.js.png" width= "7%"/>
     <img src="images/mongodb.png" width="7%"/>
     <img src="images/sql.png" width= "12%"/>

@@ -1,7 +1,7 @@
 
-https://user-images.githubusercontent.com/84400670/169313392-84bc64f0-c72b-41a3-9958-b64d11428c86.mp4
 
- 
+![3hMe](https://user-images.githubusercontent.com/84400670/169330153-dcf3e5a1-99bd-42c3-8199-53f4b73703e2.gif)
+
 # Technologies
 
 ## Languages
@@ -18,7 +18,8 @@ https://user-images.githubusercontent.com/84400670/169313392-84bc64f0-c72b-41a3-
 <p float="left">
     <img src="images/bootstrap.png" width="7%"/>
     <img src="images/dj.png" width="7%"/> 
-    <img src="images/react-1.png" width="7%"/>
+    <img src="images/react-1.png" width="7%"/>![3Al6](https://user-images.githubusercontent.com/84400670/169328444-6a60dc92-a756-4db0-8619-88896a30fb35.gif)
+
     <img src="images/node.js.png" width= "7%"/>
     <img src="images/mongodb.png" width="7%"/>
     <img src="images/sql.png" width= "12%"/>

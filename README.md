@@ -2,10 +2,11 @@
 
 # About me 
 
-Hi there my name is Matthew and I am a software developer with 2+ years of experience in designing & developing client/server side web applications. I have always had a keen interest in technology and how the world of technology works.
+Hi there my name is Matthew and I am a software developer 
+with 2+ years of experience in designing & developing client/server side 
+web applications. I have always had a keen interest in technology 
+and how the world of technology works.
  
-
-git
 # Technologies
 
 ## Languages

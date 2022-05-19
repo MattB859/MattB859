@@ -16,7 +16,6 @@ https://user-images.githubusercontent.com/84400670/169313392-84bc64f0-c72b-41a3-
 
 ## Frameworks, Databases, and Tools
 <p float="left">
-    <img src="images/jquery.png" width="6%"/>
     <img src="images/bootstrap.png" width="7%"/>
     <img src="images/dj.png" width="7%"/> 
     <img src="images/react-1.png" width="7%"/>

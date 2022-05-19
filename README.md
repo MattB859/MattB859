@@ -1,9 +1,8 @@
-<img src="images/README.png" width="100%"/>
+<img src="images/img-10.png" width="100%"/>
 
 # About me 
 
-I am a software engineer with 1+ years of commercial experience in designing and developing interactive user-friendly responsive websites. I have always had a keen interest in technology and how the world of technology works. I have acquired skills in HTML5, CSS3, SCSS, JavaScript (ES6,7,8), TypeScript, React.js, Flask, Django, and Python. I am familiar with both relational and non-relational databases. 
-
+Hi there my name is Matthew and I am a software developer with 2+ years of experience in designing & developing client/server side web applications. I have always had a keen interest in technology and how the world of technology works.
 
 # Technologies
 
@@ -27,11 +26,6 @@ I am a software engineer with 1+ years of commercial experience in designing and
     <img src="images/mongodb.png" width="7%"/>
     <img src="images/sql.png" width= "12%"/>
 </P>
-
-## GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattb859&show_icons=true&theme=radical" />
-</a>
 
 
 <!--

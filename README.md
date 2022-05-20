@@ -1,4 +1,4 @@
-## 👋 Hello World 🖥️
+<h2 align="center">👋 Hello World 🖥️</h2>
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Hi+I'm+Matthew;A+Frontend+Software+Developer;MERN+Stack+Developer;Full+Stack+Developer"></a>

@@ -2,6 +2,8 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=👋+Hello+World;I'm+Matthew+Staines;A+Frontend+Software+Developer;MERN+Stack+Developer;Full+Stack+Developer"></a>
 </p>
 
+## 
+
 <p align="center">
   <a href="#"><img src="https://user-images.githubusercontent.com/84400670/169344509-06d5b5b7-6b29-4dd3-ac39-0833c0f5d6a0.gif"></a>
 </p>

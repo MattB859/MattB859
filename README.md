@@ -20,6 +20,7 @@
 ![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express)
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-444444?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
 ![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=scss)

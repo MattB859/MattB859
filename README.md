@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=👋+Hello+World;I'm+Matthew+Staines;A+Frontend+Software+Developer;MERN+Stack+Developer;Full+Stack+Developer"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=👋+Hello+World;I'm+Matthew+Staines;A+Frontend+Software+Developer;Full+Stack+Developer"></a>
 </h2>
 
 

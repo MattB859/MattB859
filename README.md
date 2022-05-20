@@ -14,32 +14,20 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
 ![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=scss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb)
-![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-<p float="left">
-    <img src="images/html-5.png" width="5%"/>
-    <img src="images/css-03.png" width="5.7%"/> 
-    <img src="images/js.png" width="5%"/>
-    <img src="images/python-3.png" width="6%"/>
-    <img src="images/bootstrap.png" width="7%"/>
-    <img src="images/dj.png" width="7%"/> 
-    <img src="images/react-1.png" width="7%"/>
-    <img src="images/node.js.png" width= "7%"/>
-    <img src="images/mongodb.png" width="7%"/>
-    <img src="images/sql.png" width= "12%"/>  
-</p>
 
 
 ## GitHub Stats

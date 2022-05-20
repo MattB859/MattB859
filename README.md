@@ -1,7 +1,7 @@
 ## 👋 Hello World 🖥️
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=My+Name+is+Matthew;I+am+a+Frontend+Software+Developer;Data+Structure;MERN+Stack;Full+Stack+Web+Developer"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Hi+I'm+Matthew;A+Frontend+Software+Developer;MERN+Stack+Developer;Full+Stack+Developer"></a>
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MattB859.MattB859)

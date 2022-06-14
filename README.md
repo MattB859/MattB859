@@ -8,7 +8,7 @@
 </p>
 
 
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<p> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=40> </p>
 
 ![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
@@ -21,7 +21,6 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-444444?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
-![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=scss)
 ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
